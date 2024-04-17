@@ -1,0 +1,850 @@
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Los Angeles Lakers
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Dallas Mavericks
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Philadelphia 76ers
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Golden State Warriors
+west 3: Phoenix Suns
+west 4: Dallas Mavericks
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Sacramento Kings
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Miami Heat
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Sacramento Kings
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: Golden State Warriors
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Philadelphia 76ers
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Atlanta Hawks
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Sacramento Kings
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Chicago Bulls
+playin_west_loser: New Orleans Pelicans
+east 1: Philadelphia 76ers
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: Los Angeles Lakers
+east 1: Philadelphia 76ers
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Sacramento Kings
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Dallas Mavericks
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Chicago Bulls
+playin_west_loser: Golden State Warriors
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: Sacramento Kings
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Philadelphia 76ers
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: Golden State Warriors
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: New Orleans Pelicans
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Golden State Warriors
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Chicago Bulls
+playin_west_loser: Golden State Warriors
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Sacramento Kings
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Dallas Mavericks
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Chicago Bulls
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Dallas Mavericks
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: New Orleans Pelicans
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: Los Angeles Lakers
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Milwaukee Bucks
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Dallas Mavericks
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Golden State Warriors
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Los Angeles Lakers
+west 2: Denver Nuggets
+west 3: Minnesota Timberwolves
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Miami Heat
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Philadelphia 76ers
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Orlando Magic
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
+playin_east_1: Philadelphia 76ers
+playin_east_2: Chicago Bulls
+playin_west_1: Los Angeles Lakers
+playin_west_2: Sacramento Kings
+playin_east_loser: Miami Heat
+playin_west_loser: New Orleans Pelicans
+east 1: Boston Celtics
+east 2: New York Knicks
+east 3: Indiana Pacers
+east 4: Cleveland Cavaliers
+west 1: Oklahoma City Thunder
+west 2: Denver Nuggets
+west 3: Phoenix Suns
+west 4: Los Angeles Clippers
+
+----------
+
